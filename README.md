@@ -29,6 +29,9 @@ Some features that may be added in the future are:
 - Different web search providers
 - Memory from across sessions
 - File manipulation
+
+## Snapshots
+![CLI](screenshots/CLI_screenshot.png)
 ## Authors
 
 - [nairec](https://x.com/PyNair)
