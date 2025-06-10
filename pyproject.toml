@@ -3,4 +3,12 @@ name = "compy"
 version = "0.1.0"
 description = "Add your description here"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "langchain>=0.3.25",
+    "langchain-ollama>=0.3.3",
+    "ollama>=0.5.1",
+    "psutil>=7.0.0",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+    "tavily-python>=0.7.5",
+]
